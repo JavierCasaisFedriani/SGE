@@ -2,7 +2,7 @@
 ## Fork
 > Cuando hacemos un *Fork* de un proyecto lo que hacemos es copiar el proyecto a nuestro repositorio por lo que ya podremos modificar cualquier dato del repositorio.
 
-[imgFork]: Imagenes/fork
+[imgFork]: Imagenes/fork.png
 
 ## Clone
 > El comando clone nos permite pasar el repositorio de *GitHub* a nuestro equipo
