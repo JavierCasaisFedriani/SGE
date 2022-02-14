@@ -2,14 +2,14 @@
 ## Fork
 > Cuando hacemos un *Fork* de un proyecto lo que hacemos es copiar el proyecto a nuestro repositorio por lo que ya podremos modificar cualquier dato del repositorio.
 
-[imgFork]: Imagenes/fork.png
+![imgFork]: Imagenes/fork.png
 
 ## Clone
 > El comando clone nos permite pasar el repositorio de *GitHub* a nuestro equipo
 
 1) Para realizar el *clone* lo primero que tendremos que hacer es is al repositorio que le hemos realizado el fork y copiaremos la ruta del repositorio.
 
-[imgClone1]: Imagenes/clone1
+[imgClone1]: github/Imagenes/fork.png
 
 2) Cuando hayamos copiado la ruta nos iremos a la terminal del equipo. Cuando este abierta la terminal nos iremos a la ruta donde queramos guardar el repositorio con `cd` , para movernos por las carpetas y con `ls` para mostrar los archivos que se encuentran en el directorio en el que estas situado. Cuando nos hayamos posicionado en el directorio utilizaremos el comando `git clone (pegamos la ruta del repositorio de github)`.
 
